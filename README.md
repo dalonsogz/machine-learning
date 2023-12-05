@@ -7,13 +7,10 @@ In this repository you will find how to create a beautiful GUI application that 
 
 <img src="https://github.com/MariyaSha/ml_gui_app/assets/32107652/4925650b-9ee5-4b55-ab7c-415b772762c1" width=600px>
 
-## Starter Files
+## Project content
 
-The starterFiles directory refers to the files required to follow my <a href="https://youtu.be/h0dglh9elCw" target="_blank">video tutorial</a>.
-
-## Finished Project
-
-Includes the complete application, along with 2 jupyter notebooks with plenty of information to help you customize your own image classifying neural networks.
+- Files required to follow my <a href="https://youtu.be/h0dglh9elCw" target="_blank">video tutorial</a>.
+- Complete application, along with 2 jupyter notebooks with plenty of information to help you customize your own image classifying neural networks.
 <br>
 The complete app is also live and running on Taipy's cloud: https://classifier.taipy.cloud/
 
