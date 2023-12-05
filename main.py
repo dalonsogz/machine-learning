@@ -16,7 +16,7 @@ class_names = {
     9: 'truck',
 }
 
-model = models.load_model("baseline_mariya.keras")
+model = models.load_model("baseline.keras")
 
 def predict_image (model, path_to_img):
     print (model.summary())
