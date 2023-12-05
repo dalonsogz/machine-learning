@@ -1,5 +1,6 @@
 from taipy.gui import Gui
-from tensorflow.keras import models
+from tensorflow.keras import models, Model
+from tensorflow import keras
 from PIL import Image
 import numpy as np
 
@@ -16,7 +17,7 @@ class_names = {
     9: 'truck',
 }
 
-model = models.load_model("baseline_mariya.keras")
+model = models.load_model("baseline.keras")
 
 def predict_image (model, path_to_img):
     print (model.summary())
