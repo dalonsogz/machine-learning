@@ -1,5 +1,6 @@
 from taipy.gui import Gui
-from tensorflow.keras import models
+from tensorflow.keras import models, Model
+from tensorflow import keras
 from PIL import Image
 import numpy as np
 
